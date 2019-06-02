@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-demo/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-demo/static/js/main.a63d03e0.chunk.js",
-    "main.js.map": "/react-demo/static/js/main.a63d03e0.chunk.js.map",
+    "main.js": "/react-demo/static/js/main.6d784b55.chunk.js",
+    "main.js.map": "/react-demo/static/js/main.6d784b55.chunk.js.map",
     "runtime~main.js": "/react-demo/static/js/runtime~main.3dcdfef1.js",
     "runtime~main.js.map": "/react-demo/static/js/runtime~main.3dcdfef1.js.map",
     "static/js/2.b41502e9.chunk.js": "/react-demo/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/react-demo/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/react-demo/index.html",
-    "precache-manifest.b6e75a62b9a9e302fbbcde2bbe0f42fa.js": "/react-demo/precache-manifest.b6e75a62b9a9e302fbbcde2bbe0f42fa.js",
+    "precache-manifest.a61c66832ad2bedbcdb5e62b856726d3.js": "/react-demo/precache-manifest.a61c66832ad2bedbcdb5e62b856726d3.js",
     "service-worker.js": "/react-demo/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/react-demo/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/react-demo/static/media/logo.5d5d9eef.svg"
